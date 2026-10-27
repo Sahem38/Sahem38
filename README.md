@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sahem38/Sahem38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Александр Емельянов
 
-Here are some ideas to get you started:
+**Системный аналитик | System Analyst**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Пишу требования, которые одинаково понятны заказчику и разработчику.*
+
+[![Telegram](https://img.shields.io/badge/Telegram-@aemelianov-0969da)](https://t.me/aemelianov)
+[![Email](https://img.shields.io/badge/Email-post@sahem.ru-1a7f37)](mailto:post@sahem.ru)
+[![Сайт](https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-sahem.ru-8250df)](https://sahem.ru)
+[![hh.ru](https://img.shields.io/badge/hh.ru-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-bc4c00)](https://hh.ru/resume/2baf2c92ff10ce14d50039ed1f714a32367956)
+
+</div>
+
+---
+
+## Обо мне
+
+Ведущий системный аналитик в различных проектах импортозамещения. Шесть лет веду продукты от интервью с заказчиком до приёмки: реестр требований, ТЗ и ПМИ по ГОСТ 34 и 19, сопровождение тестирования и ввода в эксплуатацию. До этого пять лет был инженером-конструктором — отсюда привычка к точным формулировкам и стандартам.
+
+- **Сейчас:** Создал и развиваю [Needle](https://github.com/Sahem38/needle-app) — планировщик задач и менеджер заметок
+
+## Навыки и инструменты
+
+| Категория | Технологии и нотации |
+|---|---|
+| **Анализ требований** | Интервью, User Story, User Story Mapping, Use Case, Gherkin, функциональные требования, спецификации |
+| **Моделирование** | UML, BPMN, DFD, ER-диаграммы, C4, моделирование данных |
+| **Проектирование API** | REST, Swagger / OpenAPI, Postman |
+| **Документирование** | ТЗ по ГОСТ 34, ГОСТ 19, ПМИ, руководства пользователя, ГОСТ Р 56939-2024 |
+| **Базы данных** | SQL, PostgreSQL, MySQL |
+| **Процессы и ALM** | Agile, Devprom, Camunda, приёмочное тестирование, поддержка по SLA |
+| **Инструменты** | Git, GitLab, GitHub, Figma, Miro, draw.io |
+| **ИИ в работе** | Claude / Claude Code, ChatGPT, Deepseek — ТЗ для ИИ-агентов, ревью их PR, черновики документации |
+
+## Проекты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sahem38/needle-app">
+        <img src="assets/needle-preview.png" alt="Needle — planner and notes" width="100%">
+      </a>
+      <br>
+      <a href="https://github.com/Sahem38/needle-app"><b>Needle</b></a>
+      <br>
+      Планировщик задач и менеджер заметок.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sahem38/system-analyst-portfolio">
+        <img src="assets/portfolio-preview.png" alt="Портфолио системного аналитика" width="100%">
+      </a>
+      <br>
+      <a href="https://github.com/Sahem38/system-analyst-portfolio"><b>Портфолио системного аналитика</b></a>
+      <br>
+      Требования, модели, API и документация
+    </td>
+  </tr>
+</table>
