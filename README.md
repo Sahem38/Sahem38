@@ -23,6 +23,8 @@
 
 ## Навыки и инструменты
 
+
+|---|---|
 | **Анализ требований** | User Story, User Story Mapping, Use Case, Gherkin, спецификации, реестр требований |
 | **Моделирование** | UML, BPMN, DFD, ER-диаграммы, C4, моделирование данных |
 | **Проектирование API** | REST, Swagger / OpenAPI, Postman |
