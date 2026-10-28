@@ -45,16 +45,16 @@
       <br>
       <a href="https://github.com/Sahem38/needle-app"><b>Needle</b></a>
       <br>
-      Планировщик задач и менеджер заметок.
+      Планировщик задач и менеджер заметок
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Sahem38/system-analyst-portfolio">
         <img src="assets/portfolio-preview.png" alt="Портфолио системного аналитика" width="100%">
       </a>
       <br>
-      <a href="https://github.com/Sahem38/system-analyst-portfolio"><b>Портфолио системного аналитика</b></a>
+      <a href="https://github.com/Sahem38/system-analyst-portfolio"><b>Системный аналитик</b></a>
       <br>
-      Требования, модели, API и документация
+      Артефакты работы системного наалитика
     </td>
   </tr>
 </table>
